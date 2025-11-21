@@ -1,6 +1,6 @@
 # Air Cargo Analysis
-
 This project focuses on evaluating the performance, efficiency, and market dynamics of an air cargo operation using data-driven analysis.It involves collecting and analyzing shipment, aircraft, route, financial, and operational data to uncover trends, identify bottlenecks, and highlight opportunities for improved logistics and profitability.
+
 ---
 
 ## Entity Relationship (ER) Diagram
